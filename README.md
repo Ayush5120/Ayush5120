@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5120&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5120" /> </p>
 
-- 🔭 I’m currently working on **Reply Radar**
-
 - 🌱 I’m currently learning **Django, kubernetes ...**
 
 - 💬 Ask me about **C++, python, flask, Docker, MySql, Data Structures, System Design ...**
